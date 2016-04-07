@@ -1345,10 +1345,10 @@ form input.error, form textarea.error {
 }
 
 .slick-prev:before, .slick-next:before {
-  font-family: "DroidSans";
+  font-family: "Raleway";
   font-size: 20px;
   line-height: 1;
-  color: white;
+  color: #333;
   opacity: 0.75;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
