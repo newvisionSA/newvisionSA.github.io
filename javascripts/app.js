@@ -330,7 +330,7 @@ jQuery(document).foundation();
         slidesToShow: slides_to_show,
         slidesToScroll: 1,
         autoplay: false,
-        autoplaySpeed: 5000,
+        autoplaySpeed: 10000,
         pauseOnHover: true,
         responsive: [
           {
@@ -790,7 +790,7 @@ jQuery(document).foundation();
         autoplay: false,
         pauseOnHover: false,
         dots: show_dots,
-        speed: 9000,
+        speed: 10000,
         arrows: true
       });
 
