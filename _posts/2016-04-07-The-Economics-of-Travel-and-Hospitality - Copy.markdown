@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  The Economics of Travel and Hospitality
-date:   2016-04-07 10:57:12   June 26, 2012
+date:   2016-04-06 10:57:12   June 26, 2012
 images: images/economics.jpg
 author: Carolyn Neville
 excerpt:
