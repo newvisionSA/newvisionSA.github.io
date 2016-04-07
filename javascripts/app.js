@@ -329,7 +329,7 @@ jQuery(document).foundation();
       $('.clients', $ctx).slick({
         slidesToShow: slides_to_show,
         slidesToScroll: 1,
-        autoplay: true,
+        autoplay: false,
         autoplaySpeed: 5000,
         pauseOnHover: true,
         responsive: [
@@ -787,7 +787,7 @@ jQuery(document).foundation();
       }
 
       $('.items', $ctx).slick({
-        autoplay: true,
+        autoplay: false,
         pauseOnHover: false,
         dots: show_dots,
         speed: 9000,
