@@ -1,27 +1,48 @@
 ---
 layout: post
-title:  Some Notes on Leadership
+title:  Language of Travel
 date:   2016-04-07 10:52:12
-images: images/leadership.jpg
+images: images/languageoftravel.jpg
 author: Carolyn Neville
 excerpt:
-  With currently over 2000 books on the market about leadership – and a dearth of excellent leaders in South Africa, and the rest of the world, here are some of my thoughts! 
-categories: Leadership
+  I call this the ‘dumbing down’ of language – and sadly it is prevalent everywhere – even in the hospitality industry. 
+categories: Travel Industry
 ---
-With currently over 2000 books on the market about leadership – and a dearth of excellent leaders in South Africa, and the rest of the world, here are some of my thoughts!
+Hi Guys!
 
-There is a distinction between a manager and a leader.  A manager is like a cook that uses a recipe – there are definable steps in the management process - like a recipe – and these can be learnt and mastered with experience – planning, organizing and controlling.  Leading, however, is the ‘people’ part of management – and true leaders don’t follow the recipe.  They are more like chefs creating a spectacular dish – using their passion for cooking, their intuition, the ingredients at hand and their prior knowledge to inspire them and to create.  
+I call this the ‘dumbing down’ of language – and sadly it is prevalent everywhere – even in the hospitality industry.
 
-An excellent example, albeit from outside SA was the leadership by Mayor Guilliani immediately after the 11th September disaster at the World Trade Centre in New York.  Here are some of the leadership lessons to be learnt from him:
+From senior managers to lower level staff, it is not uncommon to hear managers refer to their staff as ‘guys’, for waiters to greet guests with a ‘hi guys’, and then to acknowledge an order placed by a guest with an ‘okay’.
 
-He clearly united everyone behind a common objective – that of finding people in the rubble.  That’s called vision setting.  Visions should be simple, relevant, not just dreamt up by one person but debated and thrashed out in a team.  Visions should be communicated to all staff all the time – you have to keep on reminding people what they are there for each day.
-He communicated all the time, telling all those involved how they were doing in the achievement of the objective, and by educating the citizens of New York not to take revenge on those of Arab descent.
-HE WAS THERE – at ground zero – for hours on end.  Years ago this was given the acronym MBWA (Managing By Walking Around).   This is the most effective management tool, yet many in the hospitality industry get comfortable behind their desks – away from troublesome guests and difficult staff.  
-He got tired, he got dirty
-He encouraged and gave lots of praise and thanks throughout the whole period and well after it too.  He organized celebrations for the heroes.
+On an even more serious level, I was checking out of an hotel last year, and the receptionist was struggling to print the bill, she looked up at me and with an exasperated look, apologised for the delay “I’m sorry it is taking so long, the printer’s f****d”!
 
-He was, in short, an excellent example of SERVANT LEADERSHIP.  This style of leadership is at the cutting edge of current management theory – managers and leaders whose purpose it is to serve those who are serving, to create the right type of environment for others to effectively and efficiently perform their tasks.
+Why is this happening and it is acceptable?
 
-Consider Walter Emerson’s words:  “What you are shouts so loudly in my ears I cannot hear what you say”.
+Of course, it is true that generally language has become more and more casual over the years, - written communication is a classic example.  Thankfully, the days of ‘hereinunder’ and ‘forthwith’ are over.  Language has indeed become more direct, and consequently much clearer and easier to understand.  The acronym
 
-Leaders need to Lead By Example – there is no other way of leading.  Great leaders take responsibility for their vision – they embody the vision, they personify the vision, they live out the vision, they communicate the vision constantly.  They are fired up and consequently those below them get fired up too.
+K eep
+I t
+S hort and
+S imple 
+
+is a helpful guideline when communicating – especially in written format.  We should all be wary of expressions like “as soon as possible” – what does this actually mean?  Within in the next five minutes/five hours/five days?!  
+
+In addition, there is a common understanding that SMS or texting language such as ‘thx’ and ‘u’ and ‘shld’ are not acceptable in written communication, and yet when I am marking assignments of third year hospitality students, I have to correct these errors and explain why this is not acceptable.  
+
+Many hotels have now resorted to the dreaded template letter which will, at least, ensure that the letter a guest receives is more professional, spelt correctly and that the grammar is correct.  Sadly, often these template letters do not address the specific problem raised by the guest, and can, therefore, sound somewhat insincere and impersonal.  
+
+In short, we should pay more attention to our verbal language skills – we should say what we mean, and mean what we say.  We should not use slang or swear words when talking to guests – this is disrespectful and unprofessional.  Let us get back to basics and communicate well with our guests:
+
+ “Good morning/ afternoon/ evening” instead of “Hi there” or “hello”
+
+ “May I offer you something to drink from the bar?” as opposed to “what can I get you?”
+
+ “Certainly Sir or Ma’am” instead of “okay”
+
+ “Excuse me” rather than “sorry” when you are entering the guest’s space
+
+ Never saying “no we don’t have that/no you can’t do that” but rather saying “unfortunately 
+
+we are currently out of stock but may I suggest….instead”
+
+ Referring to staff or colleagues as “team” instead of “guys” or “chaps”, and never ever referring to guests as “guys” or “chaps” but “ladies and gentlemen”.
