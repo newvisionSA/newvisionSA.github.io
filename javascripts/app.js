@@ -788,7 +788,7 @@ jQuery(document).foundation();
 
       $('.items', $ctx).slick({
         autoplay: false,
-        pauseOnHover: false,
+        pauseOnHover: true,
         dots: show_dots,
         speed: 500,
         arrows: true
