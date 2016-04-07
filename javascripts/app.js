@@ -790,7 +790,7 @@ jQuery(document).foundation();
         autoplay: false,
         pauseOnHover: false,
         dots: show_dots,
-        speed: 10000,
+        speed: 15000,
         arrows: true
       });
 
