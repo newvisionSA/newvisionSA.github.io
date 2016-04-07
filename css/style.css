@@ -1345,9 +1345,9 @@ form input.error, form textarea.error {
 }
 
 .slick-prev:before, .slick-next:before {
-  font-family: "DroidSans";
-  font-size: 30px;
-  font-weight:bold;
+  font-family: "Raleway"!important;
+  font-size: 30px!important;
+  font-weight:bold!important;
   line-height: 1;
   color: #333!important;
   opacity: 0.75;
