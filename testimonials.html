@@ -1,0 +1,51 @@
+---
+layout: default
+title: Testimonials
+section_id: testimonials
+testimonials:
+  - quote: Carolyn Neville is a highly professional trainer with a passion for Quality & Standards. Her depth of knowledge together with a real passion to share this with the individuals she trains makes her training very impactful.  Her enthusiasm, energy, commitment to training and wealth of knowledge has been of immense value to our company.
+    author: Mary McGuire – Protea Hotels.
+  - quote: Thanks for a very inspirational and motivational course. I am feeling different and could not wait to be back at work. Very well presented. May your business flourish. I will really encourage other people to attend the course too.
+    author: Byran Louw, Night Manager for the Protea Hotel Breakwater Lodge
+  - quote: Thanks so much for a very honest and extremely helpful report. I value and appreciate the high level of detail and insight into all areas of the hotel.
+    author: Dennis Neville, Louis Group
+  - quote: I would like to take this opportunity to thank you for being the best teacher, and most caring and understanding person that you are. May you never change. God bless you. I think I speak on behalf of everyone who knows you when I say, "you are the best!" Thank you.
+    author: Alex Mafora, Melrose Arch Sous Chef
+  - quote: Just a quick email to say thank-you for a very informative and eye-opening course. I personally enjoyed it very much and thanks to you have a great deal of positive feedback for not only my department but from everyone on the team.
+    author: Bennie Fritz, Food and Beverage Manager, Protea Hotel Asokoro, Nigeria
+  - quote: Carolyn’s ability to effectively engage across cultures, has made her my human development partner of choice. Across cultures and boundaries, I have worked with her in four countries in some of Africa’s best hotels. My teams have always learned and applied the knowledge gained, not only in their work, but in their daily lives as well.<br><br>She has enriched the lives of all the team members she has connected with. Her expertise, understanding and training methodologies have improved my people who have improved my business.”
+    author: Jean-Claude McMenamin, General Manager, Hotel White Sands – The Beach Resort, Dar es Salaam, Tanzania
+---
+
+
+<div class='full parallax' style='background-image: url(images/header/testimonials.jpg); color: #fff;'>
+  <div class='row'>
+    <div class='large-12 columns'>
+      {% include section-header.html title="Testimonials" tagline="What our clients say about us" color="#fff" class="big" %}
+    </div>
+  </div>
+  <div class='four spacing'></div>
+</div>
+
+
+<div class='row'>
+<div class='spacing'></div>
+    <div class='large-12 columns'>
+      <div class='mod modTestimonials'>
+        <div class='row'>
+          <div class='small-12 columns'>
+            <div class='items centered-text'>
+              {% for testimonial in page.testimonials %}
+                <div class='item'>
+                  <p class='quote'>"{{testimonial.quote}}"</p>
+                  <p class='author'>- {{testimonial.author}}</p>
+                  <div class='two spacing'></div>
+                </div>
+              {% endfor %}
+            </div>
+          </div>
+          <div class='spacing'></div>
+        </div>
+      </div>
+    </div>
+  </div>
