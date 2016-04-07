@@ -1,8 +1,8 @@
 - name: Home
   path: index.html
   section_id: home
-- name: The Team
-  path: the-team.html
+- name: Meet the Trainer
+  path: meet-the-trainer.html
   section_id: theteam
 - name: Services
   path: services.html
