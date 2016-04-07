@@ -20,10 +20,10 @@ Why is this happening and it is acceptable?
 
 Of course, it is true that generally language has become more and more casual over the years, - written communication is a classic example.  Thankfully, the days of ‘hereinunder’ and ‘forthwith’ are over.  Language has indeed become more direct, and consequently much clearer and easier to understand.  The acronym
 
-K eep
-I t
-S hort and
-S imple 
+K eep<br>
+I t<br>
+S hort and<br>
+S imple
 
 is a helpful guideline when communicating – especially in written format.  We should all be wary of expressions like “as soon as possible” – what does this actually mean?  Within in the next five minutes/five hours/five days?!  
 
@@ -33,16 +33,15 @@ Many hotels have now resorted to the dreaded template letter which will, at leas
 
 In short, we should pay more attention to our verbal language skills – we should say what we mean, and mean what we say.  We should not use slang or swear words when talking to guests – this is disrespectful and unprofessional.  Let us get back to basics and communicate well with our guests:
 
- “Good morning/ afternoon/ evening” instead of “Hi there” or “hello”
+<ul><li>“Good morning/ afternoon/ evening” instead of “Hi there” or “hello”</li>
 
- “May I offer you something to drink from the bar?” as opposed to “what can I get you?”
+<li>“May I offer you something to drink from the bar?” as opposed to “what can I get you?”</li>
 
- “Certainly Sir or Ma’am” instead of “okay”
+<li>“Certainly Sir or Ma’am” instead of “okay”</li>
 
- “Excuse me” rather than “sorry” when you are entering the guest’s space
+<li>“Excuse me” rather than “sorry” when you are entering the guest’s space</li>
 
- Never saying “no we don’t have that/no you can’t do that” but rather saying “unfortunately 
+<li>Never saying “no we don’t have that/no you can’t do that” but rather saying “unfortunately we are currently out of stock but may I suggest….instead”</li>
 
-we are currently out of stock but may I suggest….instead”
-
- Referring to staff or colleagues as “team” instead of “guys” or “chaps”, and never ever referring to guests as “guys” or “chaps” but “ladies and gentlemen”.
+<li>Referring to staff or colleagues as “team” instead of “guys” or “chaps”, and never ever referring to guests as “guys” or “chaps” but “ladies and gentlemen”.</li>
+</ul>
