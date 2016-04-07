@@ -4,8 +4,7 @@ title:  The Language of Travel
 date:   2016-04-07 10:57:12   April 07, 2016
 images: images/languageoftravel.jpg
 author: Carolyn Neville
-excerpt:
-  I call this the ‘dumbing down’ of language – and sadly it is prevalent everywhere – even in the hospitality industry. 
+excerpt: I call this the ‘dumbing down’ of language – and sadly it is prevalent everywhere – even in the hospitality industry. 
 categories: Travel Industry
 ---
 Hi Guys!
