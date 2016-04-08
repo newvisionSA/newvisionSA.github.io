@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  Language of Travel
+title:  Hi Guys!
 date:   2016-04-07 10:52:12
 images: images/languageoftravel.jpg
 author: Carolyn Neville
@@ -8,8 +8,6 @@ excerpt:
   I call this the ‘dumbing down’ of language – and sadly it is prevalent everywhere – even in the hospitality industry. 
 categories: Travel Industry
 ---
-Hi Guys!
-
 I call this the ‘dumbing down’ of language – and sadly it is prevalent everywhere – even in the hospitality industry.
 
 From senior managers to lower level staff, it is not uncommon to hear managers refer to their staff as ‘guys’, for waiters to greet guests with a ‘hi guys’, and then to acknowledge an order placed by a guest with an ‘okay’.
