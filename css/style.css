@@ -3633,7 +3633,7 @@ body {
   .modTeamMember .overlay {
     opacity: 1;
     background-color: rgba(255, 255, 255, 0.8);
-    top: 0;
+    top: 0;-
   }
   .modTeamMember .overlay .intro {
     width: 100%;
@@ -3750,7 +3750,7 @@ body {
 
   /*The logo will not change to small size when in tablets, because the shrink effect will not work */
   .f-topbar-fixed.shrink .top-bar .title-area a {
-    width: auto;
+    width: 50%;
   }
   .f-topbar-fixed.shrink .top-bar .title-area a img {
     width: auto;
