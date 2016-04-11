@@ -3795,8 +3795,8 @@ body {
 }
 @media only screen and (max-width: 480px) {
   .modDefaultSlider .sequence .title h2 {
-    font-size: 3.14286rem;
-    line-height: 3.14286rem;
+    font-size: 1.64286rem;
+    line-height: 1.74286rem;
   }
   .modDefaultSlider .sequence .small-title h2 {
     font-size: 1rem;
