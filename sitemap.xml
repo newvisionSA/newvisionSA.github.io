@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+
+<url>
+  <loc>http://www.newvision.za.net/</loc>
+  <lastmod>2016-09-23T06:48:45+00:00</lastmod>
+  <changefreq>dayly</changefreq>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>http://www.newvision.za.net/meet-the-trainer.html</loc>
+  <lastmod>2016-09-23T06:48:45+00:00</lastmod>
+  <changefreq>dayly</changefreq>
+  <priority>0.90</priority>
+</url>
+<url>
+  <loc>http://www.newvision.za.net/services.html</loc>
+  <lastmod>2016-09-23T06:48:45+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.90</priority>
+</url>
+<url>
+  <loc>http://www.newvision.za.net/training.html</loc>
+  <lastmod>2016-09-23T06:48:45+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.90</priority>
+</url>
+<url>
+  <loc>http://www.newvision.za.net/consulting.html</loc>
+  <lastmod>2016-09-23T06:48:45+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.90</priority>
+</url>
+<url>
+  <loc>http://www.newvision.za.net/clients.html</loc>
+  <lastmod>2016-09-23T06:48:45+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.50</priority>
+</url>
+<url>
+  <loc>http://www.newvision.za.net/testimonials.html</loc>
+  <lastmod>2016-09-23T06:48:45+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.50</priority>
+</url>
+<url>
+  <loc>http://www.newvision.za.net/blog/</loc>
+  <lastmod>2016-09-23T06:48:45+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.50</priority>
+</url>
+<url>
+  <loc>http://www.newvision.za.net/contact.html</loc>
+  <lastmod>2016-09-23T06:48:45+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.50</priority>
+</url>
+<url>
+  <loc>http://www.newvision.za.net/travel/industry/2016/04/07/hi-guys.html</loc>
+  <lastmod>2016-09-23T06:48:45+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.50</priority>
+</url>
+<url>
+  <loc>http://www.newvision.za.net/travel/industry/2012/06/26/The-Economics-of-Travel-and-Hospitality.html</loc>
+  <lastmod>2016-09-23T06:48:45+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.50</priority>
+</url>
+<url>
+  <loc>http://www.newvision.za.net/leadership/2009/11/19/some-notes-on-leadership.html</loc>
+  <lastmod>2016-09-23T06:48:45+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.50</priority>
+</url>
+<url>
+  <loc>http://www.newvision.za.net/blog/index.html</loc>
+  <lastmod>2016-09-23T06:48:45+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.64</priority>
+</url>
+</urlset>
